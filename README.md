@@ -8,6 +8,6 @@ MSc. International Finance – London South Bank University (2018)
 ### Work Experience 
 Data Scientist @ 10Alytics
 - big impact project 1!
-- big impact project 2!
+- big impact project 2
 
 ### Projects 
