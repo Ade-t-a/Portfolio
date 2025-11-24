@@ -2,6 +2,7 @@
 
 ### Education
 Certificate, Data Analytics, Big Data, and Predictive Analytics – Toronto Metropolitan University (2024 - Date)
+
 MSc. International Finance – London South Bank University (2018) 
 
 ### Work Experience 
